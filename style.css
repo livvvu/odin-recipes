@@ -1,7 +1,8 @@
 h1 {
-    color: lightblue;
+    color: darkcyan;
     background-color: papayawhip;
     text-align: center;
+    margin: 50px 350px;
 }
 
 ul {
@@ -9,4 +10,23 @@ ul {
     font-size: 24px;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
+}
+
+.recipe-container {
+    border-style: solid;
+    border-color: lightblue;
+    margin: 50px 200px;
+    padding: 24px;
+}
+
+.recipes {
+    text-align: center;
+    padding: 24px;
+    background-color: lightblue;
+    display: inline-block;
+    width: 200px;
+}
+
+a {
+    color: darkcyan;
 }
